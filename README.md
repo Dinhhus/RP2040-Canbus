@@ -3,7 +3,14 @@
 
     gpio21: Dir
     gpio22 Pulse
+    
+    gpio17: Dir
+    gpio16 Pulse
+    
+    gpio14: Dir
+    gpio13 Pulse
 
+# Tham khao
     [stepper_x]
     step_pin: gpio19
     dir_pin: gpio18
