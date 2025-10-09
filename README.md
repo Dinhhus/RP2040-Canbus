@@ -4,11 +4,11 @@
     gpio21: Dir
     gpio22 Pulse
     
-    gpio17: Dir
-    gpio16 Pulse
+    gpio16: Dir
+    gpio17 Pulse
     
-    gpio14: Dir
-    gpio13 Pulse
+    gpio13: Dir
+    gpio14 Pulse
 
 # Tham khao
     [stepper_x]
